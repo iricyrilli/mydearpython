@@ -1,4 +1,3 @@
-
 from drawbot_skia.drawbot import *
 
 def apple (x,y):
